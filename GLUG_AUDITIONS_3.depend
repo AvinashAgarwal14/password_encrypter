@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516718983 source:d:\avinash\glug_auditions_3\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+
